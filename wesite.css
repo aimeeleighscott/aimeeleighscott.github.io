@@ -13,11 +13,11 @@ body {
 
 
 #container2{
-    background-color: white;
+    background-color: #ddd9d8;
     width: 400px;
     height: 200px;
     font-size: 150px;
-    font-family: 'Lilita One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
     margin-left: 250px;
     
 }
@@ -28,7 +28,7 @@ body {
     height: 50px;
     margin-left: 200px;
     font-size: 25px;
-    font-family: 'Lilita One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #Where {
@@ -37,7 +37,7 @@ body {
     height: 50px;
     margin-left: 20px;
     font-size: 25px;
-    font-family: 'Lilita One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #darkpinkbox{
@@ -46,6 +46,7 @@ body {
     width: 600px;
     font-size: 18px;
     margin-left: 60px;
+    font-family: 'Josefin Sans', sans-serif;
     
 }
 
@@ -55,7 +56,7 @@ body {
     height: 50px;
     margin-left: 120px;
     font-size: 25px;
-    font-family: 'Lilita One', cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #f1ece9 img{
@@ -77,6 +78,7 @@ body {
     width: 600px;
     font-size: 18px;
     margin-left: 300px;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #darkgreybox {
@@ -85,6 +87,7 @@ body {
     width: 700px;
     font-size: 18px;
     margin-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
 }
  #f1ece9 {
     height: 600px;
@@ -122,9 +125,10 @@ body {
 
 .links {
     margin-top: 200px;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     text-align: center;
     color: #8f8e8d;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .links a{
@@ -143,7 +147,7 @@ body {
         background-color: #f5c9bc;
 }
 
- #f1ece92 {
+ #f1ece92 s{
         height: 1681px;
         background-color: #f1ece9;
 }
@@ -173,4 +177,5 @@ body {
     width: 700px;
     font-size: 18px;
     margin-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
 }
