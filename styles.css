@@ -146,15 +146,19 @@ body {
  #bad3cc {
     height: 753px;
     background-color: #bad3cc;
+    background-image: url(images/girl.jpg);
+    background-size: cover;
 }
 
  #f5c9bc {
-        height: 767px;
+        height: 300px;
         background-color: #f5c9bc;
+      background-image: url(images/map_lines.png);
+      background-size: cover;
 }
 
- #f1ece92 s{
-        height: 1681px;
+ #f1ece92 {
+        height: 1200px;
         background-color: #f1ece9;
 }
 
