@@ -1,4 +1,4 @@
-div {
+zdiv {
     outline: 1px solid black;
     }
 
@@ -11,15 +11,24 @@ body {
     margin: auto;
 }
 
+ #header {
+    height: 600px;
+    background-color: #f1ece9;
+    color: white;
+    padding-top: 100px;
+    background-image: url(images/leaves.png);
+     background-size: cover;
+}
 
-#container2{
+#hey{
     background-color: #ddd9d8;
     width: 400px;
-    height: 200px;
+    height: 160px;
     font-size: 150px;
     font-family: 'Josefin Sans', sans-serif;
-    margin-left: 250px;
-    
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
 }
 
 #NameAimee {
@@ -59,7 +68,7 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 
-#f1ece9 img{
+#header img{
     width:100%
 }
 
@@ -89,10 +98,7 @@ body {
     margin-left: 20px;
     font-family: 'Josefin Sans', sans-serif;
 }
- #f1ece9 {
-    height: 600px;
-    background-color: #f1ece9;
-}
+
 
 #f1ece92 .container {
     display: grid;
